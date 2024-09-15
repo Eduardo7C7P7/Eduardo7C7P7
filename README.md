@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eduardo7C7P7
-- 👀 I’m interested in Project Management
+- 👀 I’m interested in Information Technology
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me LinkedIn
